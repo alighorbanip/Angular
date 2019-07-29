@@ -16,6 +16,6 @@ export class AppComponent implements OnInit {
   }
 
   showInfo() {
-    console.log('log is test');
+    console.log('log');
   }
 }
